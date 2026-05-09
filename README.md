@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-Lightweight, blazing-fast CLI tool designed to supercharge your Git workflow
+Lightweight, blazing-fast TUI/CLI tool designed to supercharge your Git workflow
 
 <div align="center">
 
@@ -75,7 +75,7 @@ More productivity.
 
 - 🚀 Simplified Git workflow
 - ⚡ Fast native binary
-- 🔥 Lightweight CLI
+- 🔥 Lightweight TUI/CLI
 - 🛠 Built with Go
 - 🌍 Cross-platform
   - macOS
