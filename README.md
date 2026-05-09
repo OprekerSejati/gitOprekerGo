@@ -39,6 +39,12 @@ Git is powerful, but sometimes the commands feel unnecessarily complicated.
 
 ---
 <p align="center">
+  <img src="./assets/commit_wizard.png" />
+</p>
+
+---
+
+<p align="center">
   <img src="./assets/status.png" />
 </p>
 
