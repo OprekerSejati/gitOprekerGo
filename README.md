@@ -38,6 +38,22 @@ Or forgetting things like:
 Git is powerful, but sometimes the commands feel unnecessarily complicated.
 
 ---
+<p align="center">
+  <img src="./assets/status.png" />
+</p>
+
+---
+<p align="center">
+  <img src="./assets/smart_sync.png" />
+</p>
+
+---
+
+<p align="center">
+  <img src="./assets/local_explorer.png" />
+</p>
+
+---
 
 # ✅ The Solution: gitOprekerGo
 
