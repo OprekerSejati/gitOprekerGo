@@ -8,7 +8,7 @@ Lightweight, blazing-fast CLI tool designed to supercharge your Git workflow
 
 # gitOprekerGo
 
-⚡ Fast Git Automation CLI built with Go
+⚡ Fast Git Automation TUI/CLI built with Go
 
 Simple. Fast. Productive.
 
